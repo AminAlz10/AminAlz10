@@ -9,4 +9,4 @@ I'm passionate about building a strong foundation in networking, Linux, and cybe
 - Linux and Bash basics
 
 #### Let's connect:
-- LinkedIn: [[link](https://www.linkedin.com/in/amin-alizadeh-839657229)]
+- LinkedIn: [https://www.linkedin.com/in/amin-alizadeh-839657229]
